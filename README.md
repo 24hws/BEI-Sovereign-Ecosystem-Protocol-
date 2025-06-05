@@ -1,2 +1,2 @@
-# standards
-BEI Sovereign Ecosystem Protocol &amp; JSON Schema
+BEI Sovereign Ecosystem Protocol  
+A Modular Standard for Human-Centered Digital Sovereignty
