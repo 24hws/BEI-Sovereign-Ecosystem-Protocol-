@@ -1,0 +1,38 @@
+{
+  "bei_protocol": {
+    "version": "1.0.0",
+    "description": "BEI Sovereign Ecosystem Protocol Specification",
+    "modules": [
+      {
+        "id": "BEIID",
+        "name": "BEI Sovereign Identity",
+        "type": "DID",
+        "features": ["unique_id", "public_key", "metadata", "revocation"]
+      },
+      {
+        "id": "BEICHAIN",
+        "name": "BEI Behavior Chain",
+        "type": "ledger",
+        "features": ["immutable_record", "timestamp", "ipfs_cid", "user_id", "content"]
+      },
+      {
+        "id": "BEISCORE",
+        "name": "BEI Behavior Scoring",
+        "type": "credit",
+        "features": ["participation", "trust", "frequency", "impact"]
+      },
+      {
+        "id": "BEICOIN",
+        "name": "BEI Currency",
+        "type": "token",
+        "features": ["minting", "burning", "transfer", "stake", "exchange"]
+      },
+      {
+        "id": "BEINAME",
+        "name": "BEI Naming System",
+        "type": "resolver",
+        "features": ["readable_alias", "ipfs_mapping", "subdomain_structure"]
+      }
+    ]
+  }
+}
