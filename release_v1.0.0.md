@@ -28,7 +28,7 @@ This repository defines the **BEI Sovereign Ecosystem Protocol**, a decentralize
 - **Type:** `resolver`
 - **Features:** `readable_alias`, `ipfs_mapping`, `subdomain_structure`
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 standards/
@@ -42,7 +42,7 @@ standards/
     └── ...
 ```
 
-## ⚖️ License
+## License
 
 Open-sourced under **GPL / MIT / BEI Sovereign License**, pending final confirmation by **BEI Core**.
 
