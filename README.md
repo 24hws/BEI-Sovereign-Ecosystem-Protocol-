@@ -86,7 +86,7 @@ Open-sourced under **GPL / MIT / BEI Sovereign License**, pending final confirma
   * 24hws Holding LLC
   * ATMS.com Holding LLC
 * **Originator:** BEI Human Sovereignty Ecology Foundation
-* **Email:** [24hwssus@gmail.com](mailto:24hwssus@gmail.com)
+* **Email:** [24hwsus@gmail.com](mailto:24hwsus@gmail.com)
 * **GitHub:** [@24hws](https://github.com/24hws)
 * **IPFS CID Index:** Refer to pinned protocol files
 * **First Published:** June 5, 2025\*\* June 5, 2025
