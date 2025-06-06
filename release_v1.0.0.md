@@ -1,12 +1,12 @@
 # BEI Sovereign Ecosystem Protocol
 
-## 📜 Description
+## Description
 
 This repository defines the **BEI Sovereign Ecosystem Protocol**, a decentralized framework for human-centric digital sovereignty. It provides a multi-module specification enabling identity, behavioral traceability, reputation scoring, token economics, and decentralized naming—all rooted in the principles:
 
 > **Behavior is Asset · Economy is Ecosystem · Identity is Sovereignty**
 
-## 📦 Modules
+## Modules
 
 ### 1. BEIID – Sovereign Identity
 - **Type:** `DID`
@@ -48,14 +48,14 @@ Open-sourced under **GPL / MIT / BEI Sovereign License**, pending final confirma
 
 ---
 
-# 🔖 Release v1.0.0
+# Release v1.0.0
 
 ## Highlights
 
-- ✳️ **Initial release of BEI Protocol spec**
-- 💠 Modular architecture: BEIID, BEICHAIN, BEISCORE, BEICOIN, BEINAME
-- 📜 Full markdown + JSON Schema version
-- 🧪 Patent-ready components included under `/patents`
+- ✳**Initial release of BEI Protocol spec**
+- Modular architecture: BEIID, BEICHAIN, BEISCORE, BEICOIN, BEINAME
+- Full markdown + JSON Schema version
+- Patent-ready components included under `/patents`
 
 ## Roadmap
 
