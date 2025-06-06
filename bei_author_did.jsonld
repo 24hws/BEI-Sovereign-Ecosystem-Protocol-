@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:24hws.org",
+  "controller": "did:web:24hws.org",
+  "alsoKnownAs": [
+    "mailto:24hwssus@gmail.com",
+    "https://github.com/24hws"
+  ],
+  "verificationMethod": [
+    {
+      "id": "did:web:24hws.org#key-1",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:web:24hws.org",
+      "publicKeyMultibase": "z6MkmBEXAMPLEFAKEPUBLICKEYFQmR"
+    }
+  ],
+  "service": [
+    {
+      "id": "did:web:24hws.org#ipfs",
+      "type": "DecentralizedStorage",
+      "serviceEndpoint": "https://ipfs.io/ipns/24hws"
+    },
+    {
+      "id": "did:web:24hws.org#repo",
+      "type": "Repository",
+      "serviceEndpoint": "https://github.com/24hws/BEI-Sovereign-Ecosystem-Protocol-"
+    }
+  ],
+  "claim": {
+    "name": "Dr. FURONG BEI (\u8d1d\u798f\u8363)",
+    "roles": [
+      "Inventor",
+      "Lead Architect"
+    ],
+    "affiliations": [
+      "BEI Human Sovereignty Ecology Foundation",
+      "BEI Sovereign Ecology Global Inc.",
+      "Global Human Sovereign Exchange",
+      "24hws Holding LLC",
+      "ATMS.com Holding LLC"
+    ],
+    "firstPublished": "2025-06-05"
+  }
+}
